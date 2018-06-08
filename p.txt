@@ -1,5 +1,2 @@
-this is sample file
-
-hii
-hello
+this is sample file in master branch
 
