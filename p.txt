@@ -1,1 +1,2 @@
-this is sample file in sample branch
+
+this is sample file in master branch
